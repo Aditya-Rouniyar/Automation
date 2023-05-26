@@ -1,0 +1,77 @@
+Ciklum is looking for a Senior Azure DevOps Engineer  to join our team full-time in Poland.
+
+We are a leading global product engineering and digital services company that unites 4000+ seasoned professionals globally on various projects in healthcare, fintech, travel, sportswear, entertainment, and security. Ciklum delivers high-impact technology solutions to Fortune 500 and fast-growing organisations worldwide.
+
+About the role:
+
+As a Senior Azure DevOps Engineer, become a part of a cross-functional development team working for the Client.
+
+About the Project:
+
+Infrastructure automation for SAP instances, mostly based around AWS, Azure and Ansible.
+
+Responsibilities:
+
+
+Be capable of easily grasping complex solutions
+Building CI/CD flow from the scratch, supporting and evolving it
+Take responsibility for the DevOps culture across different projects
+Help the team build a stable system with faster builds, more reliable releases, shorter time to market and improved performance
+Interact with Scrum Masters, Product Owners, colleagues and stakeholders in the business across different projects
+Keep yourself up to date with the latest technologies
+Introduce new possibilities with current and new technologies
+
+Requirements:
+
+
+Ansible:
+System configuration (Ansible, Ansible Tower, Ansible playbooks/roles/modules)
+Azure:
+ PowerShell/Azure CLI scripting/Azure graph
+ ARM Templates/Terraform
+ Deep understanding Azure AD
+ Azure networking – network configuration and security, load balancing, app gateways, etc
+ PaaS components (app services, functions, MS SQL, MySQL, Cosmos DB, key vaults, etc.
+ Strong knowledge of Azure VM infrastructure (VMs families, Pricing models, etc.)
+ Understanding of caching services like Redis Cache and CDN
+ Understanding container services
+  CI/CD tools:
+ Azure DevOps (Repos, Pipelines, Artifacts)
+ Build Tools (MSBuild, MSDeploy, dotnet, npm, nuget, etc.)
+ Code Quality Analysis tools (Checkmarx, Sonarqube etc.)
+ Strong Git knowledge
+  Methodology:
+ Branching strategies (Gitflow/trunk-base development)
+ CI/CD (gated builds, feature environments, zero-downtime deployments)
+ Versioning (SemVer/Gitversion)
+ 
+Desirable:
+
+
+Experience with other CI/CD tools (Octopus Deploy/Jenkins/Gitlab CI/Teamcity)
+Hands-on Experience with Linux environments and automation scripting
+Hands-on Experience with containers orchestration tools (service fabric/ k8s / docker swarm)
+Experience with Package Managers (Nexus Sonatype/JFrog Artifactory/Proget)
+
+What's in it for you?
+
+
+Care: your mental and physical health is our priority. We ensure comprehensive company-paid medical insurance, life insurance and Multisport card
+Tailored education path: boost your skills and knowledge with our regular internal events (meetups, conferences, workshops), Udemy license, language courses and company-paid certifications
+Growth environment: share your experience and level up your expertise with a community of skilled professionals, locally and globally
+Flexibility: choose how you want to work – a 100% remote or on-sight in our office in Gdansk or Wroclaw.  Own your schedule – you are the one to decide when to start your working day. Just dont miss your regular team stand-up
+Opportunities: we value our specialists and always find the best options for them. Our Internal Mobility Program helps change a project if needed to help you grow, excel professionally and fulfill your potential
+Global impact: work on large-scale projects that redefine industries with international and fast-growing clients
+Welcoming environment: feel empowered with a friendly team, open-door policy, informal atmosphere within the company and regular team-building events
+
+About us:
+
+Join a well-established company and a strong team of professionals. Seize the perks of global opportunities, local approach and start-up spirit.
+
+Boost your skills with modern stacks and industry-leading clients!
+
+Enjoy what you do, do what you enjoy!
+
+Be bold, not bored!
+
+Are you already interested? We would love to get to know you! Submit your application. We can’t wait to see you at Ciklum.
